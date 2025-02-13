@@ -66,3 +66,46 @@ Thumbs.db
 /[Aa]ssets/[Aa]ssetStoreTools*
 /[Aa]ssets/[Pp]lugins*
 /[Aa]ssets/[Gg]izmos*
+
+# Heavy Assets and Textures
+/[Aa]ssets/TextureHaven/**
+/[Aa]ssets/[Mm]odels/**
+/[Aa]ssets/[Tt]extures/**
+/[Aa]ssets/[Mm]aterials/**
+
+# Large file types
+*.fbx
+*.blend
+*.obj
+*.mtl
+*.tga
+*.cubemap
+*.tif
+*.tiff
+*.hdr
+*.exr
+*.mp3
+*.wav
+*.ogg
+*.aif
+*.aiff
+*.dll
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.BMP
+*.psd
+*.maya
+*.max
+*.3ds
+
+# Exception for specific assets (uncomment if needed)
+# ![Aa]ssets/[Ss]prites/*.png
+# ![Aa]ssets/[Uu]I/*.png
+# ![Aa]ssets/[Ii]cons/*.png
